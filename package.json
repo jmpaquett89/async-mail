@@ -1,0 +1,13 @@
+{
+  "name": "async-mail",
+  "version": "1.0.0",
+  "description": "A utility that turns nodemailer and ejs functionality into asynchrounous functions",
+  "main": "index.js",
+  "type": "module",
+  "author": "John Paquette",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "nodemailer": "^6.9.4"
+  }
+}
